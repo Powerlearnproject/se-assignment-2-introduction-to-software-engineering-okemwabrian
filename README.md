@@ -46,6 +46,36 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+1. Agile:
+
+Methodology: Agile is flexible and iterative, emphasizing continuous feedback and adaptation.
+
+Process:
+ Divides work into Sprints, typically lasting one to four weeks.
+
+Prioritizes delivering value to the customer/user quickly and frequently.
+Self-organizing teams allocate resources based on business priorities and use cases.
+Collaboration: Promotes ongoing collaboration.
+
+Preferred Scenarios:
+Dynamic, evolving projects.
+When requirements are likely to change.
+Customer-centric development.
+
+1. Waterfall:
+Methodology: 
+Waterfall is sequential and rigid, with distinct phases completed in order.
+Process:
+ Well-defined stages with formal hand-offs.
+Requirements for each step completed before moving to the next.
+Linear process from requirements to final release.
+Planning: Focuses on thorough planning and execution.
+
+Preferred Scenarios:
+Stable, well-understood projects.
+When requirements are stable and unlikely to change.
+Projects with clear, predefined scope.
+
 
 
 Requirements Engineering:
